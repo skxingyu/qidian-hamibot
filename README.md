@@ -1,4 +1,4 @@
-# qidian-hamibot(修改了源码，更加简便)
+# qidian-hamibot(修改了源码new1.js，更加简便)
 只需在hamibot“开发”中上传代码直接运行
 手机端需下载hamibot，开启无障碍、允许后台弹出和悬浮窗（小米）
 
